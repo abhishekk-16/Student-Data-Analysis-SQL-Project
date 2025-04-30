@@ -46,4 +46,5 @@ CREATE TABLE student_data
       family_income_level VARCHAR(10),
       stress_level INT,
       sleep_hours_per_night DOUBLE
-);```
+);
+```
