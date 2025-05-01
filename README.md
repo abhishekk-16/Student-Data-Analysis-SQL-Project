@@ -57,7 +57,7 @@ CREATE TABLE student_data
 ```sql
 SELECT COUNT(*) FROM student_data ;
 
--- Finding records with any null values
+-- Finding records without any null values
 SELECT * 
 FROM student_data
 WHERE
